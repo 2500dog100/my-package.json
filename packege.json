@@ -1,0 +1,11 @@
+"name": "@2500dog100/my-package.json
+"publishConfig": {
+  "registry": "https://npm.pkg.github.com/2500dog100"
+}"
+"repository": {
+  "type": "git",
+  "url": "ssh://git@github.com:2500dog100/my-package.json.git",
+  "directory": "@2500dog100/my-package.json
+}
+registry=https://npm.pkg.github.com/@2500dog100
+registry=https://registry.npmjs.org
